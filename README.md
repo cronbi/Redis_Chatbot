@@ -69,6 +69,7 @@ Below are a few of examples of how to run this chatbot:
 
 ![Example 3](https://imgur.com/a/rMjialb)
 
+![Example 4](https://i.imgur.com/4SOIhix.jpg)
 
 
 
