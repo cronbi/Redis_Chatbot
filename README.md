@@ -23,9 +23,9 @@ This chatbot project utilizes Redis as a backend data store to enable real-time 
 3. Build and start the Docker containers: `docker-compose up -d`
 
 4. Access the chatbot by running the following command in another terminal:
-`docker-compose exec <you-python-app-name> bash`
+  `docker-compose exec <you-python-app-name> bash`
 
-`python <mp1.py>`
+  `python <mp1.py>`
 
 ## Usage
 
