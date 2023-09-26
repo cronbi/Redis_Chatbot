@@ -1,4 +1,4 @@
-# Chatbot Project README
+f# Chatbot Project README
 
 ## Overview
 This chatbot project utilizes Redis as a backend data store to enable real-time messaging and user interactions. The chatbot supports a variety of commands and features, including weather updates, fun facts, user identification, and messaging in different channels.
@@ -68,4 +68,5 @@ Below are a few examples of how to run this chatbot:
 ![Example 2](https://imgur.com/a/rMjialb)
 
 
+![WeChat9b5f44e46d218302621c4ad310e69fbc](https://github.com/cronbi/Redis_Chatbot/assets/40770129/6d2bc4af-89c6-42d6-82aa-44167b26c1fd)
 
