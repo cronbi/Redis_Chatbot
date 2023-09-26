@@ -61,7 +61,7 @@ You can monitor interactions in real-time. Here's how to do it:
 
 ## Example
 
-Below are a few of examples of how to run this chatbot:
+Below are a few examples of how to run this chatbot:
 
 ![Example 1](https://imgur.com/a/9m9revD)
 
@@ -69,7 +69,7 @@ Below are a few of examples of how to run this chatbot:
 
 ![Example 3](https://imgur.com/a/rMjialb)
 
-![Example 4](https://i.imgur.com/4SOIhix.jpg)
+![Example 4](https://i.imgur.com/4SOIhix)
 
 
 
