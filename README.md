@@ -62,6 +62,7 @@ You can monitor interactions in real-time. Here's how to do it:
 ## Example
 
 Below are a few examples of how to run this chatbot:
+
 ![example1](https://github.com/cronbi/Redis_Chatbot/assets/40770129/607d7096-4df7-4a64-a8fc-885dd5af5827)
 
 ![example2](https://github.com/cronbi/Redis_Chatbot/assets/40770129/2065c282-8a90-496a-935b-89236c734be6)
