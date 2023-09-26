@@ -18,12 +18,13 @@ This chatbot project utilizes Redis as a backend data store to enable real-time 
 ### Running the Chatbot
 1. Clone this repository to your local machine: `git clone <repository_url>`
 
-2. Navigate to the project directory: `cd <chatbot-project>`
+2. Navigate to the project directory: `cd <chatbot-project-path>`
 
 3. Build and start the Docker containers: `docker-compose up -d`
 
 4. Access the chatbot by running the following command in another terminal:
-`docker-compose exec <python-app> bash`
+`docker-compose exec <you-python-app-name> bash`
+
 `python <mp1.py>`
 
 ## Usage
