@@ -57,7 +57,7 @@ You can monitor interactions in real-time. Here's how to do it:
 
 3. In your chatbot terminal, initiate interactions (e.g., join a channel, send messages).
 
-4. Observe the real-time output in the Redis monitor terminal. Screenshot the output for at least three different user inputs to your bot.
+4. Observe the real-time output in the Redis monitor terminal.
 
 ## Example
 
